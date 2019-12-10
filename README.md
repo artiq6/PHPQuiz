@@ -41,3 +41,6 @@ run localhost/quiz
 
 ## Screens
 ![screenQuiz](./screenQuiz.PNG)
+![screenQuiz](./screenQuiz2.PNG)
+![screenQuiz](./screenQuiz3.PNG)
+![screenQuiz](./screenQuiz4.PNG)
