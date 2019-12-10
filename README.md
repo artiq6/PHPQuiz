@@ -40,7 +40,7 @@ run localhost/quiz
 * **Artur Haluch** 
 
 ## Screens
-![screenQuiz](./screens/screenQuiz.PNG)
-![screenQuiz](./screens/screenQuiz2.PNG)
-![screenQuiz](./screens/screenQuiz3.PNG)
-![screenQuiz](./screens/screenQuiz4.PNG)
+![screenQuiz](./screens/screenQuiz.png)
+![screenQuiz2](./screens/screenQuiz2.PNG)
+![screenQuiz3](./screens/screenQuiz3.PNG)
+![screenQuiz4](./screens/screenQuiz4.PNG)
